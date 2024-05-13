@@ -1,4 +1,4 @@
-# Weather Application using Django
+# Weather and Map Application using Django
 
 This project is a web application developed using Django, a powerful Python framework, to provide users with up-to-date weather data for any location worldwide. The application aims to be user-friendly, accessible, and visually appealing, catering to a wide range of users.
 
