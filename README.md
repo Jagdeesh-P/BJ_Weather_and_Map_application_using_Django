@@ -46,20 +46,31 @@ Feedback Form
 ![Feedback](feedback.png)
 
 ## Setup Instructions
+
 Clone the repository: git clone https://github.com/yourusername/yourrepository.git
+
 Install the required dependencies: pip install -r requirements.txt
+
 Run the development server: python manage.py runserver
+
 Access the application in your web browser at http://localhost:8000
+
 
 ## Usage
 Use the WeatherProject Folder
 
 ## Contribution Guidelines
+
 Fork the repository
+
 Create a new branch (git checkout -b feature/yourfeature)
+
 Commit your changes (git commit -am 'Add new feature')
+
 Push to the branch (git push origin feature/yourfeature)
+
 Create a new Pull Request
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
