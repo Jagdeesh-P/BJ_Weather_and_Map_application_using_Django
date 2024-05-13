@@ -37,7 +37,7 @@ Weather Details
 ![Weather](weather2.png)
 
 Map Details
-![Map](map.png)
+![Map](maps.png)
 
 Privacy Policy
 ![Privacy](privacy.png)
